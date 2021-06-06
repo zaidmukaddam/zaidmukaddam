@@ -5,3 +5,5 @@
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: zaidlunatic1@gmail.com
 - 😄 Pronouns: he/him
+
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidmukaddam&show_icons=true&theme=radical)

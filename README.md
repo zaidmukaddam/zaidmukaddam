@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I am Zaid Mukaddam
 
-- 🔭 I’m currently working on a social blogging platform
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on a 2048 Game App
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: zaidlunatic1@gmail.com
 - 😄 Pronouns: he/him
 

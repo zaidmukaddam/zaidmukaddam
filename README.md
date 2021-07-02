@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Zaid Mukaddam
 
-- 🔭 I’m currently working on a Social Media App
+- 🔭 I’m currently working on a Women Safety App
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: zaidlunatic1@gmail.com
 - 😄 Pronouns: he/him

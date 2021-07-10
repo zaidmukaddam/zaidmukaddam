@@ -6,7 +6,7 @@
 - 📫 How to reach me: zaidlunatic1@gmail.com
 - 😄 Pronouns: he/him
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Zaidmukaddam.png)
+![TryHackMe](/Zaidmukaddam.png)
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/zaidmukaddam/count.svg)

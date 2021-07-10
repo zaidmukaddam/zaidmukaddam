@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidmukaddam&layout=compact)](https://github.com/zaidmukaddam)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Zaidmukaddam.png" alt="TryHackMe">
+![TryHackMe]("https://tryhackme-badges.s3.amazonaws.com/Zaidmukaddam.png")

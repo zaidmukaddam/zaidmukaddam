@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidmukaddam&layout=compact)](https://github.com/zaidmukaddam)
 
-<script src="https://tryhackme.com/badge/365752"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Zaidmukaddam.png" alt="TryHackMe">

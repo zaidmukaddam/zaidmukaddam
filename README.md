@@ -34,8 +34,8 @@ _This is not a full list of my skills. I'm also open to learn more skills!_
   
   ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=zaidmukaddam&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
-  <!-- _(Wakatime stats of all time)_
+   _(Wakatime stats of all time)_
   
   [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=zaidmukaddam&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@zaidmukaddam)
-   -->
+  
  </details>

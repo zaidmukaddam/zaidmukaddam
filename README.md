@@ -30,12 +30,12 @@ _This is not a full list of my skills. I'm also open to learn more skills!_
   <summary>stats</summary>
   
   
-  ![stats](https://github-readme-stats-drab-iota-53.vercel.app/api?username=zaidmukaddam&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
+  ![stats](https://github-readme-stats.vercel.app/api?username=zaidmukaddam&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
   
-  ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=zaidmukaddam&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+  ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=zaidmukaddam&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
    _(Wakatime stats of all time)_
   
-  [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=zaidmukaddam&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@zaidmukaddam)
+  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zaidmukaddam&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@zaidmukaddam)
   
  </details>

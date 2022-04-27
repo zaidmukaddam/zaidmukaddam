@@ -4,11 +4,10 @@
 - ⚡️Fast learner
 - 🤟 I love programming, learning and tech
 - 🌱 Currently learning advanced React, next.js and Flutter
-- 🌐 View my portfolio: [realzaidmukaddam.tech](https://realzaidmukaddam.tech/)
+- 🌐 View my portfolio: [zaidmkz.xyz](https://zaidmkz.xyz/)
 - 💪 Currently working on a secret project
 - 📦 My biggest project so far: [toodoolee](https://github.com/toodoolee)
 - My Rubik's Cube Solver : [rubiks-cube-solver](https://zaidmukaddam.github.io/rubiks-cube-solver)
-- Weather App: [weather](https://atmos.realzaidmukaddam.tech/)
 
 ## skills and tools
 

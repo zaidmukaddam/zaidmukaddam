@@ -4,7 +4,7 @@
 - ⚡️Fast learner
 - 🤟 I love programming, learning and tech
 - 🌱 Currently learning advanced React, next.js and Flutter
-- 🌐 View my portfolio: [zaidmkz.xyz](https://za16.co)
+- 🌐 View my portfolio: [za16.co](https://za16.co)
 - 💪 Currently working on a secret project
 
 ## skills and tools
